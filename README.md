@@ -16,9 +16,6 @@ my portfolio/
 |-- index.dtml
 |-- README.md
 `-- saqib-portfolio/
-    |-- index.html
-    |-- style.css
-    |-- script.js
     `-- image/
         `-- profile.jpeg
 ```
