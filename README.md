@@ -1,45 +1,37 @@
 # Saqib Ali Portfolio
 
-This repository contains my personal portfolio website. It highlights my profile, technical skills, projects, tools, and contact links in a modern single-page layout.
+This repository contains my personal portfolio website. It presents my profile, skills, selected projects, and contact details in a clean single-page portfolio layout.
 
-## Live Profile Focus
+## Overview
 
 - Name: `Saqib Ali`
 - Location: `Kasur, Pakistan`
 - Role: `BSCS Student`
-- Interests: `Web Development`, `AI Learning`, `SEO`, `WordPress Design`
+- Focus: `Web Development`, `AI Learning`, `SEO`, `WordPress Design`
 
-## Features
-
-- Modern responsive portfolio layout
-- Animated typing hero section
-- Profile image section
-- Skills with progress bars
-- Project showcase
-- Tools and technology section
-- Contact section with social links
-- WhatsApp quick-contact button
-
-## Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
-- Google Fonts
-
-## Project Structure
+## Files
 
 ```text
 my portfolio/
-|-- saqib-portfolio/
-|   |-- index.html
-|   |-- style.css
-|   |-- script.js
-|   `-- image/
-|       `-- profile.jpeg
-`-- README.md
+|-- index.dtml
+|-- README.md
+`-- saqib-portfolio/
+    |-- index.html
+    |-- style.css
+    |-- script.js
+    `-- image/
+        `-- profile.jpeg
 ```
+
+## Main Portfolio File
+
+The main ready-to-open portfolio page is:
+
+- `index.dtml`
+
+This file contains the portfolio in a single file and uses the existing profile image from:
+
+- `saqib-portfolio/image/profile.jpeg`
 
 ## Sections Included
 
@@ -47,35 +39,39 @@ my portfolio/
 - About
 - Skills
 - Projects
-- Tools
 - Contact
 
-## Projects Highlighted
+## Featured Skills
+
+- Python
+- PHP
+- HTML, CSS, JavaScript
+- Bootstrap
+- SQL and XAMPP
+- WordPress and Canva
+- SEO
+- Machine Learning basics
+
+## Highlighted Projects
 
 - AgroCare Website
-- Web development work
-- AI and beginner machine learning learning projects
+- Online Tour Booking System
+- Student Management Data Analysis
 
 ## Social Links
 
 - GitHub: [saqib-stack-hub](https://github.com/saqib-stack-hub)
-- LinkedIn: [Saqib Ali](https://www.linkedin.com/in/saqib-ali-135238366?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: [Saqib Ali](https://www.linkedin.com/in/saqib-ali-135238366)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/923293344426)
 
 ## How to Use
 
 1. Clone the repository.
-2. Open `saqib-portfolio/index.html` in your browser.
-3. Edit the content, projects, and contact details as needed.
-
-## Future Improvements
-
-- Add live project links
-- Add downloadable CV
-- Add contact form backend
-- Add dark/light theme toggle
+2. Open `index.dtml` in your browser or hosting environment.
+3. Update content, links, or image if you want to personalize it further.
 
 ## Author
 
 **Saqib Ali**  
 BS Computer Science Student  
-Web Developer | Beginner AI Engineer | SEO Expert | WordPress Designer
+Web Developer | AI Learner | SEO Expert | WordPress Designer
