@@ -1,34 +1,32 @@
 # Saqib Ali Portfolio
 
-This repository contains my personal portfolio website. It presents my profile, skills, selected projects, and contact details in a clean single-page portfolio layout.
-
-## Overview
-
-- Name: `Saqib Ali`
-- Location: `Kasur, Pakistan`
-- Role: `BSCS Student`
-- Focus: `Web Development`, `AI Learning`, `SEO`, `WordPress Design`
+This repository contains my personal portfolio website. The original animated portfolio project is kept inside the `saqib-portfolio` folder.
 
 ## Files
 
 ```text
 my portfolio/
-|-- index.dtml
+|-- index.html
 |-- README.md
 `-- saqib-portfolio/
+    |-- index.html
+    |-- style.css
+    |-- script.js
     `-- image/
         `-- profile.jpeg
 ```
 
-## Main Portfolio File
+## Main File
 
-The main ready-to-open portfolio page is:
+- Open `index.html` from the root folder.
+- It will automatically open `saqib-portfolio/index.html`.
 
-- `index.dtml`
+## About
 
-This file contains the portfolio in a single file and uses the existing profile image from:
-
-- `saqib-portfolio/image/profile.jpeg`
+- Name: `Saqib Ali`
+- Location: `Kasur, Pakistan`
+- Role: `BSCS Student`
+- Focus: `Web Development`, `AI Learning`, `SEO`, `WordPress Design`
 
 ## Sections Included
 
@@ -36,24 +34,8 @@ This file contains the portfolio in a single file and uses the existing profile 
 - About
 - Skills
 - Projects
+- Tools
 - Contact
-
-## Featured Skills
-
-- Python
-- PHP
-- HTML, CSS, JavaScript
-- Bootstrap
-- SQL and XAMPP
-- WordPress and Canva
-- SEO
-- Machine Learning basics
-
-## Highlighted Projects
-
-- AgroCare Website
-- Online Tour Booking System
-- Student Management Data Analysis
 
 ## Social Links
 
@@ -64,8 +46,8 @@ This file contains the portfolio in a single file and uses the existing profile 
 ## How to Use
 
 1. Clone the repository.
-2. Open `index.dtml` in your browser or hosting environment.
-3. Update content, links, or image if you want to personalize it further.
+2. Open `index.html` in your browser.
+3. The original project will load automatically.
 
 ## Author
 
